@@ -1,0 +1,7 @@
+#resultArea {
+    width: 200px;
+    height: 20px;
+    background: rgb(143, 200, 185);
+    border: 1px solid;
+    margin: 15px auto 10px 0;
+}
